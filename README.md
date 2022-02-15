@@ -1,4 +1,4 @@
-Titulo: APP de Gifs y Stickes hecho con COMPOSITION API
+Titulo: APP de Gifs y Stickes 
 
 Link: https://juanmaynard91.github.io/Gifs-Stickers/
 
