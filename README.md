@@ -1,4 +1,4 @@
-Titulo: APP de Gifs y Stickes 
+Titulo: Aplicacion de busqueda de Gifs y Stickes hecho con Vue Composition Api
 
 Link: https://juanmaynard91.github.io/Gifs-Stickers/
 
